@@ -6,7 +6,7 @@ Loams Down Mobile est un jeu développé avec Unity. Vous pouvez y jouer en suiv
 
 ## Jouer
 
-Vous pouvez jouer au jeu ici : [Loams Down Mobile](https://empirisdev.github.io/LoamsDownMobile/)
+Vous pouvez jouer au jeu ici : [Loams Down Mobile](https://empidev.github.io/LoamsDownMobile/)
 
 ## Mode Multijoueur
 
