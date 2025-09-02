@@ -2,7 +2,7 @@
 
 ## Description
 
-Loams Down Mobile est un jeu développé avec Unity. Vous pouvez y jouer en suivant le lien ci-dessous.
+Loams Down Mobile est un jeu développé avec Unity en **3 jours**. Vous pouvez y jouer en suivant le lien ci-dessous.
 
 ## Jouer
 
